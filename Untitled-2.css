@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ana{width:100%;height:800px; background:url(images/1-2.jpg) no-repeat;margin:-100px 0 0 0}
+.söz{width:600px;height:200px;font:bold 25px Algerian;color:#FFF;padding:100px 30px 30px 90px;font-style:italic;margin:75px 100px 0 50px}
+.buton{width:200px;height:100px;margin:0 100px 0px 300px}
+.dugme{width:200px;height:30px;background:#000;color:#FFF;border-radius:20px;border:none}
